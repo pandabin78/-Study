@@ -1,7 +1,15 @@
 # Example
-- 수학 내용 정리
-  - [내적 정리](./Math/Dot.md)
-- 유니티 내용 정리
-  - [List](./Unity/List.md)
-  - [Enum](./Unity/enum.md)
-- C# 내용 정리
+
+1. CSharp
+	1. 변수
+	1. 자료형
+	1. 크기와 범위
+1. Unity
+	- Editor
+    	- Transform
+	- 3D Graphics
+3. Mathmatics
+	- Vector
+    	- Position
+    	- Direction
+    	- Dot Product
