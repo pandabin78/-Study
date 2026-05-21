@@ -1,0 +1,23 @@
+# 경로 체계
+
+## 절대경로 
+	> C:\A\B.txt // 프로그램할떄 사용하지 않음 절대경로는 변경시 적용 되지 않음.
+
+## 상대경로
+	./	 (자신 폴더)
+	../  (상위 폴더)
+
+- ex.  (./Unity/Inheritance.md)
+
+- Images (이미지 불러오기)
+    - External(외부 이미지)
+        - 절대경로 ![GitHub Icon.](https://i.namu.wiki/i/wZmZ86LHg9bNAVJ6oTWDdfNX3mWsbGYJq02aWCk-DZlN3CZJdNERTwG9WufbukDEV_Cl9zVtSlY-u-w424bX8LxsRbWCyjWv2wQVp4WI1arW_h6pynJNGur1P8TGoOMtMWt7gVBmpcOgf1LlkZBuUQ.svg)
+        - 상대경로 ![physX Logo.](./Images/Logo.png)
+
+- Table (표 작성법)
+
+| ID  | Name  |
+| --- | ----- |
+| 1   | Unity |
+| 2   | C#    |
+| 3   | Game  |
