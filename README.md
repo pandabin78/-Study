@@ -46,9 +46,7 @@
         - ![GitHub Icon.](https://i.namu.wiki/i/wZmZ86LHg9bNAVJ6oTWDdfNX3mWsbGYJq02aWCk-DZlN3CZJdNERTwG9WufbukDEV_Cl9zVtSlY-u-w424bX8LxsRbWCyjWv2wQVp4WI1arW_h6pynJNGur1P8TGoOMtMWt7gVBmpcOgf1LlkZBuUQ.svg)
         - ![physX Logo.](./Images/Logo.png)
 
-- Table
-
-| --- | ----- |
+- Table\
 | ID  | Name  |
 | --- | ----- |
 | 1   | Unity |
