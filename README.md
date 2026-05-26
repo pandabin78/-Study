@@ -13,6 +13,7 @@
     - [Inheritance](./Unity/Inheritance.md)
 
 - 수업 내용 정리(임시 파일)
+    - 05.22
     - 05.21
 
 - 키워드 정리
@@ -40,8 +41,8 @@
     - [IR(Instruction Register)](./Keyword/IR(InstructionRegister).md)
     - [AC(Accumulator)](./Keyword/AC(Accumulator).md)
     - [MAR(Memory Adress Register)](./Keyword/MAR(MemoryAdressRegister).md)
-    - ALU
-    - Decorder
+    - [ALU](./Keyword/ALU.md)
+    - [Decorder](./Keyword/Decorder.md)
     - Shifter
     - Adress Bus
     - Data Bud
