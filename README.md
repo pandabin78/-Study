@@ -39,9 +39,13 @@
     - PC(Program Counter)
     - IR(Instruction Register)
     - AC(Accumulator)
-    - MAR(Memory Adress Register)
+    - MAR(Memory Adress Register)/
     - ALU
     - Decorder
+    - Shifter
+    - Adress Bus
+    - Data Bud
+    - Control Bus
 
 - Images
     - External(외부 이미지)
