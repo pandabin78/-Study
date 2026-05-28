@@ -52,6 +52,7 @@
 - [Data Bus](./Keyword/DataBus.md)
 - [Control Bus](./Keyword/ControlBus.md)
 - [명령어 사이클](./Keyword/InstructionCycle.md)
+- [인출 사이클](./Keyword/FetchCycle.md)
 
 </details>
 
