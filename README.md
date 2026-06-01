@@ -56,7 +56,7 @@
 - [간접 사이클](./Keyword/indirectcycle.md)
 - [실행 사이클](./Keyword/ExecutionCycle.md)
 - [인터럽트 사이클](./Keyword/Micro-operation.md)
-- 캐시 메모리
+- [캐시 메모리](./Keyword/CacheMemory.md)
 
 
 </details>
