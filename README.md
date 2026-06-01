@@ -13,9 +13,11 @@
     - [Inheritance](./Unity/Inheritance.md)
 
 - 수업 내용 정리(임시 파일)
-    - 05.27
-    - 05.21
-    - 05.22
+    - [06.01](./Study/06.01.md)
+    - [05.28](./Study/05.28.md)
+    - [05.27](./Study/05.27.md)
+    - [05.26](./Study/05.26.md)
+    - [05.21](./Study/05.21.md)
     
 <details>
 <summary>키워드 정리</summary>
@@ -57,7 +59,6 @@
 - [실행 사이클](./Keyword/ExecutionCycle.md)
 - [인터럽트 사이클](./Keyword/Micro-operation.md)
 - [캐시 메모리](./Keyword/CacheMemory.md)
-
 
 </details>
 
