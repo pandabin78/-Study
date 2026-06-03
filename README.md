@@ -61,6 +61,7 @@
 - [인터럽트 사이클](./Keyword/Micro-operation.md)
 - [캐시 메모리](./Keyword/CacheMemory.md)
 - [캐시 메모리 지역성](./Keyword/CacheMemoryArea.md)
+- [캐시 메모리 일관성](./Keyword/CacheMemoryConsistency.md)
 
 </details>
 
