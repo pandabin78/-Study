@@ -13,6 +13,7 @@
     - [Inheritance](./Unity/Inheritance.md)
 
 - 수업 내용 정리(임시 파일)
+    - [06.04](./Study/06.04.md)
     - [06.03](./Study/06.03.md)
     - [06.02](./Study/06.02.md)
     - [06.01](./Study/06.01.md)
@@ -63,6 +64,7 @@
 - [캐시 메모리](./Keyword/CacheMemory.md)
 - [캐시 메모리 지역성](./Keyword/CacheMemoryArea.md)
 - [캐시 메모리 일관성](./Keyword/CacheMemoryConsistency.md)
+- [캐시 메모리 매핑](./Keyword/CacheMemoryMapping.md)
 
 </details>
 
