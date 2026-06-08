@@ -1,16 +1,33 @@
 ﻿# 수업 정리
+<details>
+<summary> TIL </summary>
+<summary> </summary>
 
-- 수업 내용 정리(임시 파일)
-    - [06.08](./Study/06.08.md)
-    - [06.04](./Study/06.04.md)
-    - [06.03](./Study/06.03.md)
-    - [06.02](./Study/06.02.md)
-    - [06.01](./Study/06.01.md)
-    - [05.28](./Study/05.28.md)
-    - [05.27](./Study/05.27.md)
-    - [05.26](./Study/05.26.md)
-    - [05.21](./Study/05.21.md)
+<details>
+<summary> 수학 </summary>
+06.08
+
+</details>
+
+<details>
+<summary> 영어 </summary>
+06.08
+
+</details>
+
+<details>
+<summary> CA/OS </summary>
+06.08
+
+</details>
+<details>
+<summary> Unity </summary>
+06.08
+
+</details>
     
+</details>
+
 <details>
 <summary>키워드 정리</summary>
 
@@ -59,4 +76,18 @@
 - [가상메모리 페이징](./Keyword/VirtualMemoryPaging.md)
 - [가상메모리 세그먼테이션](./Keyword/VirtualMemorySegmentation.md)
 
+</details>
+
+<details>
+<summary> 수업 내용 정리 </summary>
+
+- [06.08](./Study/06.08.md)
+- [06.04](./Study/06.04.md)
+- [06.03](./Study/06.03.md)
+- [06.02](./Study/06.02.md)
+- [06.01](./Study/06.01.md)
+- [05.28](./Study/05.28.md)
+- [05.27](./Study/05.27.md)
+- [05.26](./Study/05.26.md)
+- [05.21](./Study/05.21.md)
 </details>
