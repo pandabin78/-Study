@@ -65,6 +65,10 @@
 - [캐시 메모리 지역성](./Keyword/CacheMemoryArea.md)
 - [캐시 메모리 일관성](./Keyword/CacheMemoryConsistency.md)
 - [캐시 메모리 매핑](./Keyword/CacheMemoryMapping.md)
+- [가상메모리](./Keyword/VirtualMemoryPolicy.md)
+- [가상메모리 관리정책](./Keyword/VirtualMemoryPolicy.md)
+- [가상메모리 페이징](./Keyword/VirtualMemoryPaging.md)
+- [가상메모리 세그먼테이션](./Keyword/VirtualMemorySegmentation.md)
 
 </details>
 
