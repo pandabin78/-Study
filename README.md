@@ -1,18 +1,7 @@
-﻿# Example
-
-- 수학 내용 정리
-    - [내적 정리](./Math/Dot.md)
-
-
-- 유니티 내용 정리
-    
-
-- C# 내용 정리
-    - [List](./Unity/List.md)
-    - [Enum](./Unity/enum.md)
-    - [Inheritance](./Unity/Inheritance.md)
+﻿# 수업 정리
 
 - 수업 내용 정리(임시 파일)
+    - [06.08](./Study/06.08.md)
     - [06.04](./Study/06.04.md)
     - [06.03](./Study/06.03.md)
     - [06.02](./Study/06.02.md)
@@ -71,16 +60,3 @@
 - [가상메모리 세그먼테이션](./Keyword/VirtualMemorySegmentation.md)
 
 </details>
-
-## Images
- - External(외부 이미지)
-     - ![GitHub Icon.](https://i.namu.wiki/i/wZmZ86LHg9bNAVJ6oTWDdfNX3mWsbGYJq02aWCk-DZlN3CZJdNERTwG9WufbukDEV_Cl9zVtSlY-u-w424bX8LxsRbWCyjWv2wQVp4WI1arW_h6pynJNGur1P8TGoOMtMWt7gVBmpcOgf1LlkZBuUQ.svg)
-     - ![physX Logo.](./Images/Logo.png)
-
-## Table
-
-| ID  | Name  |
-| --- | ----- |
-| 1   | Unity |
-| 2   | C#    |
-| 3   | Game  |
