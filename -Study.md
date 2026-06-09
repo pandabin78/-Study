@@ -5,24 +5,28 @@
 
 <details>
 <summary> 수학 </summary>
-06.08
+
+[06.08](./Math/M_06.08.md)
 
 </details>
 
 <details>
 <summary> 영어 </summary>
-06.08
+
+[06.08](./English/E_06.08.md)
 
 </details>
 
 <details>
 <summary> CA/OS </summary>
-06.08
+
+[06.08](./CAOS/CO_06.08.md)
 
 </details>
 <details>
 <summary> Unity </summary>
-06.08
+
+[06.08](./Unity/U_06.08.md)
 
 </details>
     
