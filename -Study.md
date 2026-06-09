@@ -35,7 +35,6 @@
 <details>
 <summary>키워드 정리</summary>
 
-
 - [소프트웨어 정의](./Keyword/SD.md)
 - [소프트웨어 특성](./Keyword/SW.md)
 - [소프트웨어 위기](./Keyword/SC.md)
@@ -79,12 +78,14 @@
 - [가상메모리 관리정책](./Keyword/VirtualMemoryPolicy.md)
 - [가상메모리 페이징](./Keyword/VirtualMemoryPaging.md)
 - [가상메모리 세그먼테이션](./Keyword/VirtualMemorySegmentation.md)
+- [가상메모리 페이지드 세그멘테이션](./Keyword/VirtualMemoryPagedSegmentation.md)
 
 </details>
 
 <details>
 <summary> 수업 내용 정리 </summary>
 
+- [06.09](./Study/06.09.md)
 - [06.08](./Study/06.08.md)
 - [06.04](./Study/06.04.md)
 - [06.03](./Study/06.03.md)
