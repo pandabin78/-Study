@@ -87,14 +87,14 @@
 - [가상메모리 관리정책](./Keyword/VirtualMemoryPolicy.md)
 - [가상메모리 페이징](./Keyword/VirtualMemoryPaging.md)
 - [가상메모리 세그먼테이션](./Keyword/VirtualMemorySegmentation.md)
-- [Trashing](./Keyword/Trashing.md)
-- [메모리 인터리빙](./Keyword/MemoryInterleaving.md)
 
 </details>
 
 <details>
 <summary> 수업 내용 정리 </summary>
 
+- [06.10](./Study/06.10.md)
+- [06.09](./Study/06.09.md)
 - [06.08](./Study/06.08.md)
 - [06.04](./Study/06.04.md)
 - [06.03](./Study/06.03.md)
