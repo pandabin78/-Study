@@ -116,6 +116,7 @@
 <details>
 <summary> 수업 내용 정리 </summary>
 
+- [06.15](./Study/06.15.md)
 - [06.11](./Study/06.11.md)
 - [06.10](./Study/06.10.md)
 - [06.09](./Study/06.09.md)
