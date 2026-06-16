@@ -19,20 +19,6 @@
 </details>
 
 <details>
-<summary> 영어 </summary>
-
-- [06.08](./English/E_06.08.md)
-- [06.09](./English/E_06.09.md)
-- [06.10](./English/E_06.10.md)
-- [06.11]
-- [06.12]
-- [06.13]
-- [06.14]
-- [06.15]
-
-</details>
-
-<details>
 <summary> CA/OS </summary>
 
 - [06.08](./CAOS/CO_06.08.md)
@@ -43,6 +29,7 @@
 - [06.13](./CAOS/CO_06.13.md)
 - [06.14](./CAOS/CO_06.14.md)
 - [06.15]
+- [06.16]
 
 </details>
 <details>
@@ -58,6 +45,8 @@
 - [06.15]
 
 </details>
+
+> 영어는 말해보카 앱 사용 중
     
 </details>
 
